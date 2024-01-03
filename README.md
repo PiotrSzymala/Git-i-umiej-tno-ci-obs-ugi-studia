@@ -1,1 +1,1 @@
-# Git-i-umiej-tno-ci-obs-ugi-studia
+# Git_obsluga_studia
